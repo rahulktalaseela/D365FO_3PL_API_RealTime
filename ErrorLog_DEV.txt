@@ -1,0 +1,6 @@
+
+Login failed for user 'd365synch'.2/14/2019 3:10:16 PM
+Index was outside the bounds of the array.2/16/2019 10:44:01 AM
+Index was outside the bounds of the array.2/16/2019 11:21:25 AM
+Index was outside the bounds of the array.2/16/2019 11:23:44 AM
+Index was outside the bounds of the array.2/16/2019 11:24:28 AM

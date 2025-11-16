@@ -1,0 +1,5 @@
+PostSOPackingSlip() ; Unable to cast transparent proxy to type 'SoapUtility.SWaifServices.SWaifPackingSlipService'. ; 8/14/2019 12:08:38 PM
+123445PostSOPackingSlip() ; Unable to cast transparent proxy to type 'SoapUtility.SWaifServices.SWaifPackingSlipService'. ; 8/14/2019 12:09:54 PM
+123445PostSOPackingSlip() ; Object reference not set to an instance of an object. ; 8/14/2019 12:16:38 PM
+Program() ; Index was outside the bounds of the array. ; 8/14/2019 12:29:36 PM
+Program() ; Index was outside the bounds of the array. ; 8/14/2019 12:30:25 PM
